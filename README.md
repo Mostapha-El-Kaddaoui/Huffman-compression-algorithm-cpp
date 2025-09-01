@@ -49,16 +49,7 @@ Decodes the Huffman encoded string `coded_s` and writes the decoded text to the 
 
 The program will prompt you for the input file name containing the text to be compressed and the output file name for the compressed text. Ensure the input file exists in the same directory as the executable or provide the full path.
 
-### Compilation
-
-To compile the program, use the following command:
-
-## bash
-g++ -o huffman huffman.cpp
-./huffman
-
-## Programer
-
-### EL KADDAOUI MOSTAFA
+---
+Copyright © 2025, All Rights Reserved For ELKADDI-Solutions
 
 
